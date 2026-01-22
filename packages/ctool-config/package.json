@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "json5": "^2.2.3",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "pinyin-pro": "^3.13.0",
         "svg-path-bounds": "^1.0.2"
     },
